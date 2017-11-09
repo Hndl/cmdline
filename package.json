@@ -1,0 +1,19 @@
+{
+  "name": "cmdline",
+  "version": "1.0.0",
+  "description": "fed up of parsing command line args",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index --n 100 --str \"hello dave\" --b --svr localhost:9000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hndl/cmdline.git"
+  },
+  "author": "Hndl.CGB",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hndl/cmdline/issues"
+  },
+  "homepage": "https://github.com/Hndl/cmdline#readme"
+}
